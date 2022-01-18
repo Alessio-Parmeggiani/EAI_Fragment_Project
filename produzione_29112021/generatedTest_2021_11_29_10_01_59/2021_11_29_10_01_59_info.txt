@@ -1,0 +1,51 @@
+segmenti 2 2 2
+rotazioni 0 0 0
+numero pezzi 8
+[-1, 1, 0, 0, 1, 1, 1, 1]
+[1, -1, 1, 1, 1, 1, 0, 0]
+[0, 1, -1, 1, 0, 1, 0, 0]
+[0, 1, 1, -1, 1, 1, 1, 0]
+[1, 1, 0, 1, -1, 1, 1, 1]
+[1, 1, 1, 1, 1, -1, 1, 0]
+[1, 0, 0, 1, 1, 1, -1, 1]
+[1, 0, 0, 0, 1, 0, 1, -1]
+
+Sphere
+mesh 512
+external 301
+internal 211
+
+Sphere.001
+mesh 228
+external 119
+internal 109
+
+Sphere.002
+mesh 64
+external 23
+internal 41
+
+Sphere.003
+mesh 300
+external 153
+internal 147
+
+Sphere.004
+mesh 470
+external 279
+internal 191
+
+Sphere.005
+mesh 202
+external 98
+internal 104
+
+Sphere.006
+mesh 382
+external 200
+internal 182
+
+Sphere.007
+mesh 478
+external 277
+internal 201

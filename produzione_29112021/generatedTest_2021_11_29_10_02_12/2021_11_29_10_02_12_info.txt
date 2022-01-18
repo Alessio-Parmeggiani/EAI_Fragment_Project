@@ -1,0 +1,51 @@
+segmenti 2 2 2
+rotazioni 0 0 0
+numero pezzi 8
+[-1, 1, 0, 0, 0, 1, 0, 1]
+[1, -1, 1, 1, 1, 1, 0, 1]
+[0, 1, -1, 1, 0, 1, 0, 0]
+[0, 1, 1, -1, 1, 1, 0, 0]
+[0, 1, 0, 1, -1, 1, 1, 1]
+[1, 1, 1, 1, 1, -1, 1, 1]
+[0, 0, 0, 0, 1, 1, -1, 1]
+[1, 1, 0, 0, 1, 1, 1, -1]
+
+Icosphere
+mesh 268
+external 144
+internal 124
+
+Icosphere.001
+mesh 936
+external 646
+internal 290
+
+Icosphere.002
+mesh 284
+external 156
+internal 128
+
+Icosphere.003
+mesh 254
+external 133
+internal 121
+
+Icosphere.004
+mesh 720
+external 486
+internal 234
+
+Icosphere.005
+mesh 186
+external 95
+internal 91
+
+Icosphere.006
+mesh 20
+external 8
+internal 12
+
+Icosphere.007
+mesh 476
+external 276
+internal 200
