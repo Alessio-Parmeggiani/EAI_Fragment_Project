@@ -51,3 +51,8 @@ Test 4, loss: 1.542577, test acc: 0.321429, test avg acc: 0.500000
 Train 5, loss: 1.751346, train acc: 0.354167, train avg acc: 0.500000
 Test 5, loss: 0.830006, test acc: 0.321429, test avg acc: 0.500000
 Train 6, loss: 1.592050, train acc: 0.312500, train avg acc: 0.500000
+{'exp_name': 'exp', 'model': 'dgcnn', 'dataset': 'modelnet40', 'batch_size': 16, 'test_batch_size': 16, 'epochs': 50, 'use_sgd': False, 'lr': 0.001, 'momentum': 0.9, 'scheduler': 'cos', 'no_cuda': False, 'seed': 1, 'eval': False, 'num_points': 100, 'dropout': 0.5, 'emb_dims': 1024, 'k': 20, 'model_path': '', 'max_elements': 30}
+Using CPU
+Train 0, loss: 0.620520, train acc: 0.648148, train avg acc: 0.500000
+Test 0, loss: 0.589304, test acc: 0.648276, test avg acc: 0.500000
+Train 1, loss: 0.587883, train acc: 0.648148, train avg acc: 0.500000
